@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        AOCDay day = new Day1();
+        day.first();
+        day.second();
     }
 }
